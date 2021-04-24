@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShahzebFarruk
 - 👀 I’m interested in NLP, ML
 - 🌱 I’m currently learning Knowledge Graphs, NER, MLM, Speech Recognition.
-- 💞️ I’m looking to full-time Job opportunities.
+- 💞️ I’m looking for full-time Job opportunities.
 - 😁 I'm looking to collobrate on [Knowledge Graph Project!](https://github.com/ShahzebFarruk/Knowledge-graph). Check-it out. I'm trying to create our own from raw text documents.
 - 📫 How to reach me sshah184@uottawa.ca
 
