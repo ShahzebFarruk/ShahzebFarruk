@@ -2,7 +2,7 @@
 - 👀 I’m interested in CyberSecurity, Security Operations, Vulnerability Assesments, Pentesting. 
 - 🌱 I’m currently learning Web Security, and other Cyber Security concepts.
 - 💞️ I’m looking for full-time Job opportunities.
-- 😁 I'm looking to collobrate on [Knowledge Graph Project!](https://github.com/ShahzebFarruk/Knowledge-graph). Check-it out. I'm trying to create our own from raw text documents.
+- 😁 If you want to collobrate on [Knowledge Graph Project!](https://github.com/ShahzebFarruk/Knowledge-graph). Check-it out. I created our own from raw text documents.
 - 📫 How to reach me sshah184@uottawa.ca
 - I've worked on NLP, ML, Python, Cloud, Knowledge Graphs, NER, MLM, Speech Recognition. 
 
