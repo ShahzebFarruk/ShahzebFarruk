@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @ShahzebFarruk a Senior Cyber Security Engineer.
 - 📖 I taught at Couple Colleges and Universities in Canada.
 - 👀 I’m interested in Cyber Security. 
-- 🌱 :man_scientist: I’m researching in Cyber Security, NLP, Ontologies, Knowledge Graphs, Data science concepts.
+- 🌱:man_scientist: I’m researching in Cyber Security, NLP, Ontologies, Knowledge Graphs, Data science concepts.
 - 💞️ I’m looking for full-time, Part-time, Contract Job opportunities in Cyber Security.
 - 😁 If you want to collobrate on [Knowledge-graph](https://github.com/ShahzebFarruk/Knowledge-graph). Also, [Distributed Denial of Service Attack Using Machine Learning Techniques](https://github.com/ShahzebFarruk/DDoS-Attack-Detection-Using-ML-Algorithms). Check-it out. I created our own IDS and trained ML model on NIST-KDD dataset (borrowed data from University of New Brunswick CyberSecurity Center).
-- 
+
 - 📫 How to reach me farrukshahzeb@gmail.com
 - I've worked on Cyber Security, NLP, ML, Python, Cloud, Knowledge Graphs, NER, MLM, Speech Recognition. 
 
