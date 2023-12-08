@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShahzebFarruk a Senior Cyber Security Engineer.
+- 👋 Hi, I’m @ShahzebFarruk a Cyber Security Engineer.
 - 📖 I taught at Couple Colleges and Universities in Canada.
 - 👀 I’m interested in Cyber Security. 
 - 🌱:man_scientist: I’m researching in Cyber Security, NLP, Ontologies, Knowledge Graphs, Data science concepts.
