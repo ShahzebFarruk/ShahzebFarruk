@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShahzebFarruk a Cyber Security Engineer.
-- 📖 I taught at Couple Colleges and University of Ottawa in Canada.
+- 📖 I taught at University of Ottawa in Canada.
 - 👀 I’m interested in Cyber Security. 
 - 🌱👨‍🔬 I’m researching in Cyber Security, NLP, Ontologies, Knowledge Graphs, Data science concepts.
 - 💞️ I’m looking for full-time, Part-time, Contract Job opportunities in Cyber Security.
